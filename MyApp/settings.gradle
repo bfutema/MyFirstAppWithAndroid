@@ -1,0 +1,2 @@
+include ':app', ':structdbsqlite'
+rootProject.name='MyApp'
