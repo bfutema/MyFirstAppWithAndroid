@@ -1,2 +1,2 @@
-include ':app', ':structdbsqlite'
+include ':app', ':structdbsqlite', ':internalreaderfile'
 rootProject.name='MyApp'
